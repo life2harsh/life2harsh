@@ -18,7 +18,7 @@ Looking forward for contributing heavily to the Open Source Community!!!
 
 Peace out.
 
-https://api.githubtrends.io/user/svg/life2harsh/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=dark
+
 
 <!---
 life2harsh/life2harsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
