@@ -1,20 +1,8 @@
-Hi There!
+dev.
 
+i code in a lot of languages, trying out new stuff.
 
-I'm Harsh
-
-
-Student, Beginner Dev, Legendary Procastinator and a guy here to learn stuff
-
-
-I code in C, C++, Java, Python and a little bit of frontend too
-
-
-Currently my repos would just my personal projects and stuff, mostly private
-
-
-Looking forward for contributing heavily to the Open Source Community!!!
-
+![life2harsh's Stats](https://github-readme-stats.vercel.app/api?username=life2harsh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 Peace out.
 
