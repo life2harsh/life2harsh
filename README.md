@@ -10,8 +10,6 @@ current fav: rust.
 
 ![life2harsh's Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=life2harsh&hide=html,scss,css,cmake&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![life2harsh's streak so far](https://streak-stats.demolab.com/?user=life2harsh&theme=dark&hide_border=false)
-
 
 peace out.
 
