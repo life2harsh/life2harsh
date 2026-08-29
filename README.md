@@ -1,9 +1,10 @@
 dev.
 
-i code in a lot of languages, trying out.
+i code in a lot of languages, little high on caffeine and little low on serotonin
 
-current fav: rust.
+obsessed: rust.
 
+i like building stuff i think i can never make. kinda turns me on a little bit.
 
 ![life2harsh's Stats](https://github-readme-stats.shion.dev/api?username=life2harsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
